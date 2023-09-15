@@ -1,0 +1,1 @@
+from .generate_result import generate_text
